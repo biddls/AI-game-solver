@@ -12,3 +12,5 @@ then kills any that have a position > 1000.
 it then randomly kicks out 1/2 and the probabliity of being kicked is (1 - ((position-1) / 1000)).
 
 this means that it roughly splits the Ai's in 1/2 and then for each of them creates a copy with slighty adjusted weights then re-runs the AI's
+
+Febuary 2019
